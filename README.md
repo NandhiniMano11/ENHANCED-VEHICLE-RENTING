@@ -17,6 +17,8 @@
 
  inside project folder
  
+ Front end
+ 
  1. cd client
  2. npm start
  
